@@ -17,9 +17,14 @@ Software engineer, recent Applied Computer Science graduate.
 Standing on the shoulders of giants
 
 ### Specialized in
+- Data engeenering and visulization
+- REST API
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+### Comfortable with:
+- Python (Fast API, Plotly Dash, Django, Flask)
+- SQL (MySQL, PostgreSQL)
+- Docker
+- Linux
 
 ### Research interests
 
@@ -27,61 +32,31 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
+`2020 - 2024`
+__University of Silesia__, Katowice
+- Applied Computer Science. Bachelor's degree.
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2016 - 2020`
+__ZSEEiM__, Bielsko-Biała
+- Computer Science. Technical diploma.
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Work expirence
+`September 2023 - June 2024`
+__Valeo__, Junior Software Engineer
+- Created interactive data visulization tools using __Flask__ and __Plotly Dash__.
+- Created __FastAPI__ app for interacting with AI models by outside program with storing data needed for models preformance analysis.
+- Provided hosting for the above apps in __Linux__ envairoment with help of __Docker__.
+- Helped with collection and cleaning of data used to train AI models using standard __Python__ stack (__JupyterLab__, __Pandas__)
 
 
-## Occupation
+`July 2023 - August 2023`
+__Rekurencja.com__, Software Engineer Intern
+- Helped develop __WordPress Plugins__ in __PHP__.
+- Worked on __Custom WordPress Themes__ (__PHP__, __SASS__, __JS__).
+- Managed legacy __Django__ app, hosting migration and minor changes.
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
