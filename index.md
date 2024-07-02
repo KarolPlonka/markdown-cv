@@ -12,23 +12,22 @@ Software engineer, recent Applied Computer Science graduate.
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
+## Specialized in
 - Data engeenering and visulization
 - REST API
+- DevOps
 
-### Comfortable with:
+## Comfortable with:
 - Python (Fast API, Plotly Dash, Django, Flask)
 - SQL (MySQL, PostgreSQL)
 - Docker
 - Linux
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Other interests
+- Audio engeering
+- IoT
+- Low level coding
+- Algorithms
 
 
 ## Education
@@ -45,9 +44,9 @@ __ZSEEiM__, Bielsko-Biała
 `September 2023 - June 2024`
 __Valeo__, Junior Software Engineer
 - Created interactive data visulization tools using __Flask__ and __Plotly Dash__.
-- Created __FastAPI__ app for interacting with AI models by outside program with storing data needed for models preformance analysis.
+- Created __FastAPI__ app for interacting with AI models by outside program with collection and storing of data needed for models preformance analysis.
 - Provided hosting for the above apps in __Linux__ envairoment with help of __Docker__.
-- Helped with collection and cleaning of data used to train AI models using standard __Python__ stack (__JupyterLab__, __Pandas__)
+- Helped with collection and cleaning of data used to train AI models using standard __Python__ stack (__JupyterLab__, __Pandas__, etc.)
 
 
 `July 2023 - August 2023`
