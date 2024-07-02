@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Karol Plonka's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Karol Płonka
+Software engineer, recent Applied Computer Science graduate.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:karolplonka00@gmail.com">karolplonka00@gmail.com</a>
+| <a href="https://github.com/KarolPlonka/">https://github.com/KarolPlonka/</a>
+| <a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/">https://www.linkedin.com/in/karol-płonka-529699249/</a>
 </div>
 
 
