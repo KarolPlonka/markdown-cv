@@ -16,7 +16,7 @@ Software engineer, recent Applied Computer Science graduate.
 
 
 ## Specialized in
-- Data engeenering and visulization
+- Data engineering and visualization
 - REST API
 - DevOps
 
@@ -27,7 +27,7 @@ Software engineer, recent Applied Computer Science graduate.
 - Linux
 
 ## Other interests
-- Audio engeering
+- Audio engineering
 - IoT
 - Low level coding
 - Algorithms
@@ -43,13 +43,13 @@ __ZSEEiM__, Bielsko-Biała
 - Computer Science. Technical diploma.
 
 
-## Work expirence
+## Work experience
 `September 2023 - June 2024`
 __Valeo__, Junior Software Engineer
-- Created interactive data visulization tools using __Flask__ and __Plotly Dash__.
-- Created __FastAPI__ app for interacting with AI models by outside program with collection and storing of data needed for models preformance analysis.
+- Created interactive data visualization tools using __Flask__ and __Plotly Dash__.
+- Created __FastAPI__ app for interacting with AI models by an outside program with the collection and storing of data needed for models performance analysis.
 - Provided hosting for the above apps in __Linux__ envairoment with help of __Docker__.
-- Helped with collection and cleaning of data used to train AI models using standard __Python__ stack (__JupyterLab__, __Pandas__, etc.)
+- Helped with the collection and cleaning of data used to train AI models using standard __Python__ stack (__JupyterLab__, __Pandas__, etc.)
 
 
 `July 2023 - August 2023`
