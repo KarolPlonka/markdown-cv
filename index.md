@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Karol Plonka's CV
+title: KP cv
 ---
 # Karol Płonka
 Software engineer, recent Applied Computer Science graduate.
@@ -61,6 +61,6 @@ __Rekurencja.com__, Software Engineer Intern
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024 -->
 
 
