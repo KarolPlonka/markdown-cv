@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: KP cv
+title: Karo Płonka's CV
 ---
 # Karol Płonka
 Software engineer, recent Applied Computer Science graduate.
@@ -48,7 +48,7 @@ __ZSEEiM__, Bielsko-Biała
 __Valeo__, Junior Software Engineer
 - Created interactive data visualization tools using __Flask__ and __Plotly Dash__.
 - Created __FastAPI__ app for interacting with AI models by an outside program with the collection and storing of data needed for models performance analysis.
-- Provided hosting for the above apps in __Linux__ envairoment with help of __Docker__.
+- Provided hosting for the above apps in __Linux__ environment with the help of __Docker__.
 - Helped with the collection and cleaning of data used to train AI models using standard __Python__ stack (__JupyterLab__, __Pandas__, etc.)
 
 
