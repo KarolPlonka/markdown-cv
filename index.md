@@ -8,7 +8,7 @@ Software engineer, recent Applied Computer Science graduate.
 <div id="webaddress">
 <a href="mailto:karolplonka00@gmail.com">karolplonka00@gmail.com</a>
 | <a href="https://github.com/KarolPlonka/">github.com/karolplonka</a>
-| <a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/">linkedin.com/in/karol-płonka-529699249</a>
+| </br><a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/">linkedin.com/in/karol-płonka-529699249</a>
 </div>
 
 
