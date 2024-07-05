@@ -44,7 +44,7 @@ __ZSEEiM__, Bielsko-Biała
 
 
 ## Work experience
-`September 2023 - June 2024`
+`September 2023 - now`
 __Valeo__, Junior Software Engineer
 - Created interactive data visualization tools using __Flask__ and __Plotly Dash__.
 - Created __FastAPI__ app for interacting with AI models by an outside program with the collection and storing of data needed for models performance analysis.
