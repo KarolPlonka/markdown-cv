@@ -3,7 +3,8 @@ layout: cv
 title: Karol Płonka's CV
 ---
 # Karol Płonka
-Software engineer, Applied Computer Science graduate. </br>
+Software engineer, Applied Computer Science graduate.
+</br>
 1.5 years of commercial experience.
 
 <div id="webaddress">
@@ -33,15 +34,6 @@ Software engineer, Applied Computer Science graduate. </br>
 - Low level coding
 - Algorithms
 
-## Education
-`2020 - 2024`
-__University of Silesia__, Katowice
-- Applied Computer Science. Bachelor's degree.
-
-`2016 - 2020`
-__ZSEEiM__, Bielsko-Biała
-- Computer Science. Technical diploma.
-
 ## Work experience
 `July 2024 - now`
 __Rekurencja.com__, Software Engineer
@@ -61,7 +53,14 @@ __Rekurencja.com__, Software Engineer Intern
 - Worked on __Custom WordPress Themes__ (__PHP__, __SASS__, __JS__).
 - Managed legacy __Django__ app, hosting migration and minor updates.
 
+## Education
+`2020 - 2024`
+__University of Silesia__, Katowice
+- Applied Computer Science. Bachelor's degree.
+
+`2016 - 2020`
+__ZSEEiM__, Bielsko-Biała
+- Computer Science. Technical diploma.
 
 <!-- ### Footer
-
 Last updated: October 2024 -->
