@@ -3,7 +3,8 @@ layout: cv
 title: Karol Płonka's CV
 ---
 # Karol Płonka
-Software engineer with 1+ years of commercial experience, Applied Computer Science graduate.
+Software engineer, Applied Computer Science graduate.
+1.5 years of commercial experience.
 
 <div id="webaddress">
 <a href="mailto:karolplonka00@gmail.com">karolplonka00@gmail.com</a>
