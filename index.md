@@ -35,7 +35,7 @@ Software engineer, 1.5 years of commercial experience. Applied Computer Science 
 
 ## Work experience
 `July 2024 - now`
-### __Rekurencja.com__, Software Engineer
+__Rekurencja.com__, Software Engineer
 - Developed __Python__ software for continous data fetching from __IoT__ devices and data visulization using __JavaScript__ and __PHP__. 
 - Created backend for PIM software with auto content enhacing using __LLM__'s and __AI Vision__ (__Python__).
 
