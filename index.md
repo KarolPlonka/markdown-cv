@@ -40,7 +40,7 @@ __Rekurencja.com__, Software Engineer
 - Created backend for PIM software with auto content enhacing using __LLM__'s and __AI Vision__ (__Python__).
 
 `September 2023 - June 2024`
-### __Valeo__, Junior Software Engineer
+<ins>__Valeo__, Junior Software Engineer</ins>
 - Created interactive data visualization tools using __Flask__ and __Plotly Dash__.
 - Developed __FastAPI__ app for interacting with AI models by an outside program with the collection and storing of data needed for models performance analysis.
 - Provided hosting for the above apps in __Linux__ environment with help of __Docker__.
