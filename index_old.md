@@ -3,7 +3,7 @@ layout: cv
 title: Karol Płonka's CV
 ---
 # Karol Płonka
-Software engineer with 2 years of commercial experience.
+Software engineer, 2 years of commercial experience. Applied Computer Science graduate.
 
 <div id="webaddress">
 <a href="mailto:karolplonka00@gmail.com">karolplonka00@gmail.com</a>
@@ -16,36 +16,36 @@ Software engineer with 2 years of commercial experience.
 </div>
 
 ## Specialized in
-- **Backend Development & REST API**
-- **Inżynieria & Wizualizacja Danych **
+- **Backend development**
+- **Data engineering and visualization**
+- **REST API**
 - **DevOps**
 
-## Technologies
-- **Python** (FastAPI, Django, Flask, SQLAlchemy, Pydantic, Dash, PyTest)
+## Comfortable with:
+- **Python** (Fast API, Django, Flask, SQLAlchemy, Pydatnic, Dash, PyTest)
 - **SQL** (MySQL, PostgreSQL, SQLite)
 - **Docker**
 - **Linux**
-- **JavaScript** & **TypeScript** (React, React Native)
+- **JavaScript** and **TypeScript** (React, React Native)
 
 ## Work experience
 `July 2024 - now`
 __Rekurencja.com__, Software Engineer
-- Created auto stock synchronization app for online store with content enhancement using __LLM__'s and image processing (__Python__).
-- Integrated __gen AI__ tools for __WordPress__ e-commerce solutions (__PHP__).
-- IoT data fetching and visualization with __Python__, __PHP__ and __JavaScript__.
+- Developed __Python__ software for continous data fetching from __IoT__ devices and data visulization using __JavaScript__ and __PHP__. 
+- Created backend for PIM software with auto content enhacing using __LLM__'s and __AI Vision__ (__Python__).
 
 `September 2023 - June 2024`
 __Valeo__, Junior Software Engineer
-- Developed __FastAPI__ app for getting AI models predictions generation and models management.
-- Created web-based data visualization tools using __Flask__ and __Plotly Dash__.
+- Created interactive data visualization tools using __Flask__ and __Plotly Dash__.
+- Developed __FastAPI__ app for interacting with AI models by an outside program with the collection and storing of data needed for models performance analysis.
 - Provided hosting for the above apps in __Linux__ environment with help of __Docker__.
-- Helped with data collecting and cleaning used for AI models training with help of __JupyterLab__, __Pandas__, __NumPy__ etc.
+- Helped with the collection and cleaning data used to train AI models using __JupyterLab__, __Pandas__, __NumPy__ etc.
 
 `July 2023 - August 2023`
 __Rekurencja.com__, Software Engineer Intern
 - Helped develop __WordPress Plugins__ in __PHP__.
 - Worked on __Custom WordPress Themes__ (__PHP__, __SASS__, __JS__).
-- Managed legacy __Django__ app.
+- Managed legacy __Django__ app, hosting migration and minor updates.
 
 ## Education
 `2020 - 2024`
