@@ -172,13 +172,13 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 22%;
-	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
 
 #webaddress a {
 	text-decoration: none;
+	color: #bc412b;
 }
 
 em {
@@ -195,6 +195,9 @@ strong {
 }
 
 
+.fa {
+    color: #444;
+}
 
 /*
 @media only screen and (max-width: 480px) {

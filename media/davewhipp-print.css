@@ -180,12 +180,12 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 22%;
-	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
 
 #webaddress a {
+	color: #bc412b;
 	text-decoration: none;
 }
 
@@ -203,5 +203,6 @@ strong {
 	visibility: hidden;
 }
 
-
-
+.fa {
+    color: #888;
+}

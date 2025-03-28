@@ -3,64 +3,94 @@ layout: cv
 title: Karol Płonka's CV
 ---
 # Karol Płonka
-Software engineer with 2 years of commercial experience.
+<!-- Software engineer with 2 years of commercial experience. -->
+Programista Python z 2-letnim doświadczeniem zawodowym. Absolwent informatyki stosowanej.
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- <div id="webaddress"> -->
+<!-- <a href="mailto:karolplonka00@gmail.com">karolplonka00@gmail.com</a> -->
+<!-- | <a href="tel:505698304">505 698 304</a> -->
+<!-- </div> -->
+<!---->
+<!-- <div id="webaddress"> -->
+<!-- <a href="https://github.com/KarolPlonka/">github.com/karolplonka</a> -->
+<!-- | <a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/">linkedin.com/in/karol-płonka-529699249/</a>  -->
+<!-- </div> -->
 
 <div id="webaddress">
-<a href="mailto:karolplonka00@gmail.com">karolplonka00@gmail.com</a>
-| <a href="tel:505698304">505 698 304</a>
+    <a href="mailto:karolplonka00@gmail.com" class="email">
+        <i class="fa fa-envelope"></i>
+        karolplonka00@gmail.com
+    </a> |
+    <a href="tel:505698304" class="phone">
+        <i class="fa fa-phone"></i>
+        505 698 304
+    </a>
 </div>
 
 <div id="webaddress">
-<a href="https://github.com/KarolPlonka/">github.com/karolplonka</a>
-| <a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/">linkedin.com/in/karol-płonka-529699249/</a> 
+    <a href="https://github.com/KarolPlonka/" class="github">
+        <i class="fa fa-github"></i> 
+        github.com/karolplonka
+    </a> |
+    <a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/" class="linkedin">
+        <i class="fa fa-linkedin"></i>
+        linkedin.com/in/karol-płonka-529699249/
+    </a>
 </div>
 
-## Specialized in
+## Specjalizuje się w
 - **Backend Development & REST API**
-- **Inżynieria & Wizualizacja Danych **
+- **Inżynieria & Wizualizacja Danych**
 - **DevOps**
 
-## Technologies
+## Technologie
 - **Python** (FastAPI, Django, Flask, SQLAlchemy, Pydantic, Dash, PyTest)
 - **SQL** (MySQL, PostgreSQL, SQLite)
 - **Docker**
 - **Linux**
 - **JavaScript** & **TypeScript** (React, React Native)
 
-## Work experience
-`July 2024 - now`
+## Doświadczenie
+`Lipiec 2024 - teraz`
 __Rekurencja.com__, Software Engineer
-- Created auto stock synchronization app for online store with content enhancement using __LLM__'s and image processing (__Python__).
-- Integrated __gen AI__ tools for __WordPress__ e-commerce solutions (__PHP__).
-- IoT data fetching and visualization with __Python__, __PHP__ and __JavaScript__.
+- Stworzenie aplikacji do automatycznej synchronizacji stanów magazynowych dla sklepu internetowego z poprawianiem treści za pomocą LLM i przetwarzania obrazów (__Python__).
+- Integracja narzędzi __Gen AI__ dla rozwiązań e-commerce (__WordPress__, __PHP__).
+- Pobieranie i wizualizacja danych z urządzeń IoT przy użyciu __Python__, __PHP__ i __JavaScript__.
 
-`September 2023 - June 2024`
+`Wrzesień 2023 - Lipiec 2024`
 __Valeo__, Junior Software Engineer
-- Developed __FastAPI__ app for getting AI models predictions generation and models management.
-- Created web-based data visualization tools using __Flask__ and __Plotly Dash__.
-- Provided hosting for the above apps in __Linux__ environment with help of __Docker__.
-- Helped with data collecting and cleaning used for AI models training with help of __JupyterLab__, __Pandas__, __NumPy__ etc.
+- Stworzenie aplikacji __FastAPI__ do pozyskiwania predykcji modeli AI oraz zarządzania tymi modelami.
+- Praca nad webowymi narzędzi do wizualizacji danych przy użyciu __Flask__ i __Plotly Dash__.
+- Hosting powyższych aplikacji w środowisku __Linux__ z wykorzystaniem __Docker__.
+- Pomoc w zbieraniu i czyszczeniu danych wykorzystywanych do trenowania modeli AI korzystając z JupyterLab, Pandas, NumPy itd.
 
-`July 2023 - August 2023`
+`Marzec 2023 - Sierpień 2023`
 __Rekurencja.com__, Software Engineer Intern
-- Helped develop __WordPress Plugins__ in __PHP__.
-- Worked on __Custom WordPress Themes__ (__PHP__, __SASS__, __JS__).
-- Managed legacy __Django__ app.
+- Pomoc w tworzeniu wtyczek do __WordPress__ (__PHP__).
+- Kodowanie fragmentów frontendu dla __WordPress__ (__SASS__, __JS__).
+- Migracja hostingu i zarządzanie istniejącą aplikacją __Django__.
 
-## Education
+## Edukacja
 `2020 - 2024`
-__University of Silesia__, Katowice
-- Applied Computer Science. Bachelor's degree.
+__Uniwersytet Śląski__, Katowice
+- Informatyka stosowana. Inżynier.
 
 `2016 - 2020`
 __ZSEEiM__, Bielsko-Biała
-- Computer Science. Technical diploma.
+- Technik informatyk.
 
-## Other interests
-- Audio engineering
+## Zainteresowania
+<!-- - Audio engineering -->
+<!-- - IoT -->
+<!-- - Low level coding -->
+<!-- - Algorithms -->
+- Inżynieria dźwięku
+- LLM (Fine-tuning, RAG)
+- Programowanie niskopoziomowe
 - IoT
-- Low level coding
-- Algorithms
+
 
 <!-- ### Footer
 Last updated: March 2025 -->
