@@ -194,7 +194,9 @@ strong {
 	display: none;
 }
 
-
+.fa {
+    color: #888;
+}
 
 /*
 @media only screen and (max-width: 480px) {

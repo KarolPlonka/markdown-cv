@@ -5,19 +5,33 @@ title: Karol Płonka's CV
 # Karol Płonka
 Software engineer with 2 years of commercial experience.
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <div id="webaddress">
-<a href="mailto:karolplonka00@gmail.com">karolplonka00@gmail.com</a>
-| <a href="tel:505698304">505 698 304</a>
+    <a href="mailto:karolplonka00@gmail.com" class="email">
+        <i class="fa fa-envelope"></i>
+        karolplonka00@gmail.com
+    </a> |
+    <a href="tel:505698304" class="phone">
+        <i class="fa fa-phone"></i>
+        505 698 304
+    </a>
 </div>
 
 <div id="webaddress">
-<a href="https://github.com/KarolPlonka/">github.com/karolplonka</a>
-| <a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/">linkedin.com/in/karol-płonka-529699249/</a> 
+    <a href="https://github.com/KarolPlonka/" class="github">
+        <i class="fa fa-github"></i> 
+        github.com/karolplonka
+    </a> |
+    <a href="https://www.linkedin.com/in/karol-p%C5%82onka-529699249/" class="linkedin">
+        <i class="fa fa-linkedin"></i>
+        linkedin.com/in/karol-płonka-529699249/
+    </a>
 </div>
 
 ## Specialized in
 - **Backend Development & REST API**
-- **Inżynieria & Wizualizacja Danych **
+- **Data Engineering & Visualization**
 - **DevOps**
 
 ## Technologies
@@ -58,9 +72,10 @@ __ZSEEiM__, Bielsko-Biała
 
 ## Other interests
 - Audio engineering
-- IoT
+- LLM (fine-tuning, RAG)
 - Low level coding
 - Algorithms
+- IoT
 
 <!-- ### Footer
 Last updated: March 2025 -->

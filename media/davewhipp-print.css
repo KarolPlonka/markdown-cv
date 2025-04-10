@@ -186,6 +186,7 @@ a:hover {
 }
 
 #webaddress a {
+	color: #bc412b;
 	text-decoration: none;
 }
 
@@ -204,4 +205,6 @@ strong {
 }
 
 
-
+.fa {
+    color: #888;
+}
