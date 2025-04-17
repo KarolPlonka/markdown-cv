@@ -44,8 +44,8 @@ Software engineer with 2 years of commercial experience.
 ## Work experience
 `July 2024 - now`
 __Rekurencja.com__, Software Engineer
-- Created auto stock synchronization app for online store with content enhancement using __LLM__'s and image processing (__Python__).
-- Integrated __gen AI__ tools for __WordPress__ e-commerce solutions (__PHP__).
+- Created auto stock synchronization app for online store with content enhancement using __LLM__'s and image processing handling over 5000 products. (__Python__)
+<!-- - Integrated __gen AI__ tools for __WordPress__ e-commerce solutions (__PHP__). -->
 - IoT data fetching and visualization with __Python__, __PHP__ and __JavaScript__.
 
 `September 2023 - June 2024`
